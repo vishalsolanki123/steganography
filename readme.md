@@ -1,0 +1,1 @@
+This project contains stuff about embedding data into images and extraction of data from images, without corrupting the image
